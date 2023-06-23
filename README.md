@@ -2,7 +2,7 @@
 
 This is the official website for Metaversus, a modern Next.js 13 website built with Framer Motion and Tailwind CSS.
 ![NextJS logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/88px-Nextjs-logo.svg.png "NextJS Logo")
-
+<img src="Home.png" alt="Logo" width="800"/>
 
 ## Description
 
